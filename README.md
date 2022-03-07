@@ -1,12 +1,12 @@
-<p align="center">
-  <img src="https://github.com/toobrainless/toobrainless/blob/main/nyan-cat.gif?raw=true" height="120">
-</p>
+<!-- <p align="center">
+  <img src="https://github.com/toobrainless/toobrainless/blob/main/nyan-cat.gif?raw=true" height="150">
+</p> -->
 
-<h1 align="center">Hi there, I'm Artur</a>
+<h1 align="center">Hi </a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student</h3>
+<!-- <h3 align="center">Computer science student</h3> -->
 
-#### My CV: [-_-](https://toobrainless.github.io/cv/GimranovArtur.pdf)
+<!-- #### My CV: [-_-](https://toobrainless.github.io/cv/GimranovArtur.pdf) -->
 
 ![](https://komarev.com/ghpvc/?username=tobrainless)
 
