@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://github.com/toobrainless/toobrainless/blob/main/nyan-cat2.gif?raw=true">
+  <img src="https://github.com/toobrainless/toobrainless/blob/main/nyan-cat.gif?raw=true">
 </p>
 
-### Hi there 👋
+# Hi there 👋 I'm Artur
+
+#### My CV: [-_-](https://toobrainless.github.io/cv/GimranovArtur.pdf)
 
 ![](https://komarev.com/ghpvc/?username=tobrainless)
 
