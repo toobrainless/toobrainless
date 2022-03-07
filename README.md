@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/toobrainless/toobrainless/blob/main/nyan-cat.gif?raw=true">
+  <img src="https://github.com/toobrainless/toobrainless/blob/main/nyan-cat2.gif?raw=true">
 </p>
 
 ### Hi there 👋
